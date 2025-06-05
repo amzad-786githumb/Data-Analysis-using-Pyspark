@@ -6,7 +6,6 @@
 
 <h3>Task 2: Importing first csv file of the dataset</h3>
 <p>Import listening.csv file, which contains data related to different users listened to different songs and prepare it for the analysis by dropping columns and deleting null values.</p>.
-
 <h3>Task 3: Applying some Queries</h3>
 <p>Apply some queries to this dataset to extract useful information out of it. 
  We will start from simple queries to more advanced ones.</p>
@@ -19,11 +18,11 @@
 
 <h2>In this course, we are going to focus on 3 learning objectives:</h2>
 
-<ul>Learn how to setup the google colab for distributed data processing </ul>
+<ol>Learn how to setup the google colab for distributed data processing </ol>
 
-<ul>Learn applying different queries to your dataset to extract useful Information</ul>
+<ol>Learn applying different queries to your dataset to extract useful Information</ol>
 
-<ul>Learn how to visualize this information using matplotlib </ul>
+<ol>Learn how to visualize this information using matplotlib </ol>
 
 <h2>Pyspark</h2>
 <p>PySpark is the Python API for Apache Spark. It enables you to perform real-time, large-scale data processing in a distributed environment using Python. It also provides a PySpark shell for interactively analyzing your data.
